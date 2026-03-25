@@ -17,6 +17,7 @@ Transformar datos de clientes en información accionable mediante dashboards int
 ```
 ├── CustomerMarketing_Dashboard.pbix   # Archivo Power BI
 ├── Informe_Final.pdf                  # Informe analítico completo
+├── images/                            # Screenshots del dashboard
 └── README.md
 ```
 
